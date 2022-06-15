@@ -11,7 +11,7 @@ function Login() {
         
         <div className="flex justify-center min-h-screen items-center">
 
-            <div className="relative max-w-md w-11/12 h-96 md:w-96 md:h-96 py-4 px-6 rounded-lg shadow-md bg-white">
+            <div className="relative max-w-md w-11/12 h-96 md:w-96 md:h-96 py-4 px-6 rounded-lg shadow-md bg-white mt-48 md:mt-0 ">
                 <div className="absolute inset-x-7 md:inset-x-8 -top-6 w-5/6 h-24 md:w-5/6 md:h-24 rounded-lg shadow-md bg-red-500">
                     <h3 className="font-bold text-center text-white mt-3">Sign In</h3>
                     <div className="flex justify-center mt-2 text-white">

@@ -18,7 +18,7 @@ function Register() {
 						style = {{backgroundImage: `url('https://images.pexels.com/photos/4045697/pexels-photo-4045697.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')` }}
 					></div>
           
-					<div className="md:flex-col md:self-center w-full lg:w-7/12 bg-white md:shadow-none md:border-0 border-2 border-gray-500 shadow-md p-5 rounded-lg">
+					<div className="md:flex-col md:self-center w-full lg:w-7/12 bg-white md:shadow-none md:border-0 border-2 border-gray-500 shadow-md p-5 rounded-lg mt-48 md:mt-0">
 					  <h3 className="pt-4 text-3xl text-center">Sign Up</h3>
             <h6 className="font-light tracking-wide text-center">Enter your email and password to register</h6>
 
